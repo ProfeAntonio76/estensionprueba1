@@ -1,0 +1,10 @@
+{
+    "name": "miextension",
+    "version": "0.0.1",
+    "description": "Mi primera extensión para MakeCode Micro:bit",
+    "dependencies": {},
+    "files": [
+        "main.ts",
+        "README.md"
+    ]
+}
